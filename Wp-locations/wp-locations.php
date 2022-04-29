@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: WP Locations|Phone Numbers
-* Plugin URI: paradisetechsoft.com
+* Plugin URI: https://bitpixelguru.com/
 * Description: This plugin is created to add different location Entries with it's Phone numbers and get the current location of the user and according to that swap the Phone number in the header location of the website.
 * Version: 1.2
-* Author: Paradise TechSoft Solutions Pvt. Ltd.
-* Author URI: https://www.paradisetechsoft.com/
+* Author: Anju Batta
+* Author URI: https://bitpixelguru.com/
 **/
 
 
